@@ -1,0 +1,83 @@
+li{
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+
+.logo-utama{
+    float: left;
+    padding: left;
+    padding-top: 10px;
+}
+
+.header{
+    background-color: white;
+    color: black;
+    height: 90px;
+}
+
+.header-logo{
+    float: left;
+    font-size: 25px;
+    padding-top: 23px;
+    padding-left: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+}
+.header-list li{
+    float: right;
+    padding: 33px 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+}
+
+.main{
+    background-color:#fafafa;
+    padding: 50px ;
+    height: 500px;
+}
+
+.footer{
+    background-color: #fcd535;
+    color: black;
+    height:95px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.footer-logo{
+    font-size: 32px;
+    float: left;
+    padding-top: 40px;
+}
+
+.footer-list{
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
+
+
+.copy-container h2{
+    font-size: 33px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contents{
+    height: 350px;
+}
+
+.contents-item{
+
+    width: 500px;
+    height: 400px;
+
+
+}
+
+.aboutus{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+}
